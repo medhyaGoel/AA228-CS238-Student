@@ -78,4 +78,4 @@ def solve_policy(discount_factor, total_states, total_actions, file):
 
 # solve_policy(0.95, 100, 4, "small") # small
 # solve_policy(1, 50000, 7, "medium") # medium
-solve_policy(0.95, 302020, 9, "large") # medium
+solve_policy(0.95, 302020, 9, "large") # large
